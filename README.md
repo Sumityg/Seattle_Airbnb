@@ -24,4 +24,4 @@ There are 3 notebooks available here to showcase work related to the above quest
 The main findings of the code can be found at the post available [here](https://medium.com/@sumit.yg/analyzing-seattle-s-airbnb-listings-data-49abdc0977c8)
 
 # Licensing,Authors and Acknowledgement
-Must give credit to Stack Overflow for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/airbnb/seattle/data). Otherwise, feel free to use the code here as you would like!
+Must give credit to Airbnb for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/airbnb/seattle/data). Otherwise, feel free to use the code here as you would like!
