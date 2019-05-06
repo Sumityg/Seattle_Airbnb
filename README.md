@@ -18,7 +18,7 @@ For this project, I was interestested in using Seattle Airbnb data to better und
 3) What are the most important factors influencing the price of an Airbnb listing?
 
 # File Description
-There are 3 notebooks available here to showcase work related to the above questions. Each of the notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title. Markdown cells were used to assist in walking through the thought process for individual steps.
+There is one notebook available here to showcase work related to the above questions.This notebook is exploratory in searching through the data pertaining to the questions showcased by the notebook title. Markdown cells were used to assist in walking through the thought process for individual steps.
 
 # Results
 The main findings of the code can be found at the post available [here](https://medium.com/@sumit.yg/analyzing-seattle-s-airbnb-listings-data-49abdc0977c8)
